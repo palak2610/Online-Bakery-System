@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+body
+{
+background-image:url("lgc.jpg");
+}
+.header
+{
+font-family:French Script MT;
+font-size:30px;
+}
+.section
+{
+width:100%;
+height:50%;
+border:"3";
+}
+</style></head>
+<body>
+<div class="header">Bervely's Bakery</div>
+<div class="section"><img="gp.jpg"></div>
+</body>
+</html>

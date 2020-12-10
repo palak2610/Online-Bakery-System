@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+body
+{
+background-image:url("lgc.jpg");
+}
+.bottom
+{
+position: absolute;
+  bottom: 8px;
+font-color:red;
+}
+</style>
+</head>
+<body>
+<img src="d.jpg" alt="sky" width="700px" height="1000px">
+<div class="bottom"><a href="Cakes.html">CAKES</a>
+</div>
+</body></html>
